@@ -1,6 +1,3 @@
-class DestinationStation
-	attr_accessor :name
-	def initialize(name)
-		@name = name
-	end
-end 
+require_relative 'station'
+class DepartureStation < Station
+end
