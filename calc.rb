@@ -1,5 +1,5 @@
 class Calc
   def add(first,second)
-    0
+    first + second
   end
 end
