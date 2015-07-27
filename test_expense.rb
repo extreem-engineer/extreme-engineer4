@@ -2,7 +2,6 @@ require 'test/unit'
 require_relative 'station'
 require_relative 'departure_station'
 require_relative 'destination_station'
-require_relative 'destination_station'
 require_relative 'fare'
 require_relative 'fare_table'
 
